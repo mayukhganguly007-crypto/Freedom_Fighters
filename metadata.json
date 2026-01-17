@@ -1,0 +1,7 @@
+{
+  "name": "BharatVeer: Freedom Avatar",
+  "description": "Transform your selfie into a legendary Indian Freedom Fighter. Celebrate India's history by seeing yourself as a hero of the independence movement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
